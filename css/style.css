@@ -83,7 +83,7 @@
 }
 
 .btn.btn-primary:hover {
-    background: var(--bs-dark);
+    background: #033c35;
     color: var(--bs-white);
 }
 
@@ -94,7 +94,7 @@
 
 .btn.btn-light:hover {
     color: var(--bs-white);
-    background: var(--bs-dark);
+    background: #033c35;
 }
 
 .btn.btn-dark {
@@ -412,7 +412,7 @@
     left: 0;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    background: var(--bs-dark);
+    background: #033c35;
     transition: 0.5s;
     z-index: 1;
 }
@@ -445,7 +445,7 @@
 }
 
 .feature .feature-item:hover a.btn:hover {
-    background: var(--bs-dark);
+    background: #033c35;
     color: var(--bs-white);
 }
 /*** Feature End ***/
@@ -548,11 +548,11 @@
 
 .service .service-item:hover .service-content .service-content-inner .btn.btn-primary:hover {
     color: var(--bs-white);
-    background: var(--bs-dark);
+    background: #033c35;
 }
 
 .service .service-item:hover .service-content .service-content-inner .h4:hover {
-    color: var(--bs-dark);
+    color: #033c35;
 }
 
 .service .service-item .service-content::after {
@@ -654,7 +654,7 @@
 }
 
 .blog .blog-item .blog-content a.btn {
-    color: var(--bs-dark);
+    color: #033c35;
 }
 
 .blog .blog-item:hover .blog-content a.btn:hover {
@@ -722,7 +722,7 @@
 }
 
 .team .team-item:hover .team-title {
-    background: var(--bs-dark);
+    background: #033c35;
 }
 /*** Team End ***/
 
@@ -745,7 +745,7 @@
 }
 
 .testimonial .owl-nav .owl-prev:hover {
-    background: var(--bs-dark);
+    background: #033c35;
     color: var(--bs-white);
 }
 
@@ -761,7 +761,7 @@
 }
 
 .testimonial .owl-nav .owl-next:hover {
-    background: var(--bs-dark);
+    background: #033c35;
     color: var(--bs-white);
 }
 /*** Testimonial End ***/
